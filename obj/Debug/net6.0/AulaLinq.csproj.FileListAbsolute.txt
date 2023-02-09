@@ -1,0 +1,15 @@
+D:\Meus Documentos\Cursos Online\Code at CS\Fase 2\Módulo 03\AulaLinq\bin\Debug\net6.0\AulaLinq.exe
+D:\Meus Documentos\Cursos Online\Code at CS\Fase 2\Módulo 03\AulaLinq\bin\Debug\net6.0\AulaLinq.deps.json
+D:\Meus Documentos\Cursos Online\Code at CS\Fase 2\Módulo 03\AulaLinq\bin\Debug\net6.0\AulaLinq.runtimeconfig.json
+D:\Meus Documentos\Cursos Online\Code at CS\Fase 2\Módulo 03\AulaLinq\bin\Debug\net6.0\AulaLinq.dll
+D:\Meus Documentos\Cursos Online\Code at CS\Fase 2\Módulo 03\AulaLinq\bin\Debug\net6.0\AulaLinq.pdb
+D:\Meus Documentos\Cursos Online\Code at CS\Fase 2\Módulo 03\AulaLinq\obj\Debug\net6.0\AulaLinq.csproj.AssemblyReference.cache
+D:\Meus Documentos\Cursos Online\Code at CS\Fase 2\Módulo 03\AulaLinq\obj\Debug\net6.0\AulaLinq.GeneratedMSBuildEditorConfig.editorconfig
+D:\Meus Documentos\Cursos Online\Code at CS\Fase 2\Módulo 03\AulaLinq\obj\Debug\net6.0\AulaLinq.AssemblyInfoInputs.cache
+D:\Meus Documentos\Cursos Online\Code at CS\Fase 2\Módulo 03\AulaLinq\obj\Debug\net6.0\AulaLinq.AssemblyInfo.cs
+D:\Meus Documentos\Cursos Online\Code at CS\Fase 2\Módulo 03\AulaLinq\obj\Debug\net6.0\AulaLinq.csproj.CoreCompileInputs.cache
+D:\Meus Documentos\Cursos Online\Code at CS\Fase 2\Módulo 03\AulaLinq\obj\Debug\net6.0\AulaLinq.dll
+D:\Meus Documentos\Cursos Online\Code at CS\Fase 2\Módulo 03\AulaLinq\obj\Debug\net6.0\refint\AulaLinq.dll
+D:\Meus Documentos\Cursos Online\Code at CS\Fase 2\Módulo 03\AulaLinq\obj\Debug\net6.0\AulaLinq.pdb
+D:\Meus Documentos\Cursos Online\Code at CS\Fase 2\Módulo 03\AulaLinq\obj\Debug\net6.0\AulaLinq.genruntimeconfig.cache
+D:\Meus Documentos\Cursos Online\Code at CS\Fase 2\Módulo 03\AulaLinq\obj\Debug\net6.0\ref\AulaLinq.dll
